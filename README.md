@@ -125,9 +125,11 @@ This roadmap outlines a plan for improving your skills in data science over the 
 
 **Interview Tip 1 💁**: While answering questions in an interview, try to explain your thought process and how you arrived at your solution. This shows your problem-solving skills and can impress the interviewer even if your final answer is not correct. Remember, the interviewer is interested in how you approach problems, not just the final solution.
 
-**Learning Tip 2 💁**: IfIf you're new to learning Python, it may take some time to fully understand a concept. This is completely normal and it is worth putting in the time and effort to truly grasp the material. Remember, learning data science takes time and it is better to learn the right way rather than taking shortcuts. Don't get discouraged if you struggle to understand something – keep trying and you will get it eventually.
+**Learning Tip 2 💁**: If you're new to learning Python, it may take some time to fully understand a concept. This is completely normal and it is worth putting in the time and effort to truly grasp the material. Remember, learning data science takes time and it is better to learn the right way rather than taking shortcuts. Don't get discouraged if you struggle to understand something – keep trying and you will get it eventually.
 
 **Learning Tip 3 💁**: Data structures and algorithms are increasingly important in data science interviews, especially at large companies. In addition to preparing you for interviews, learning and practicing these topics will improve your problem-solving skills and critical thinking. We recommend focusing on one topic at a time and solving multiple practice problems to build up your toolbox of solutions. Stay tuned for more practice problems on this page.
+
+**Learning Tip 4 💁**: It's not difficult to learn frameworks, but what really matters is how you use them to analyze and visualize data to solve problems. Focus on understanding the fundamentals of data analysis and visualization, and use frameworks to build your solutions. If you don't have a strong foundation in working with data, there's no point in learning machine learning. Make sure to understand the core concepts before diving into frameworks.
 
 ## Guide to Data Science Interviews
 
